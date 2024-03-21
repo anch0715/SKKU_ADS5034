@@ -6,17 +6,14 @@ This repository is made for portfolio.
 
 Do not use these codes for your assigment.
 
-### Prerequisites / 선행 조건
-
-아래 사항들이 설치가 되어있어야합니다.
-
-```
-
-```
 
 ## Assignment 1
 
-Implementation : Image Transformations, Linear Filters, Image Pyramids, Median Blur, 
+Implementation : 
+* Image Transformations
+* Linear Filters
+* Image Pyramids
+* Median Blur
 
 ```
 pip install matplotlib
@@ -27,7 +24,10 @@ pip install numpy
 
 ## Assignment 2
 
-Implementation : Feature Descriptor and Feature Matching, Homography and Stitching, Homography with RANSAC
+Implementation : 
+* Feature Descriptor and Feature Matching
+* Homography and Stitching
+* Homography with RANSAC
 
 ```
 pip install matplotlib
