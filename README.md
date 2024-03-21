@@ -1,4 +1,4 @@
-# SKKU_ADS5034/Computer Vision
+# Course Work/Computer Vision
 
 ## Getting Started
 
